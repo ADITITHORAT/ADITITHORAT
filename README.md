@@ -52,10 +52,5 @@
 
 ---
 
-### 🏆 GitHub Profile Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=ADITITHORAT&theme=onedark&row=1&column=7)
-
----
-
 💖 Thank you for visiting my profile!  
 Feel free to connect or collaborate on exciting projects 🌸
