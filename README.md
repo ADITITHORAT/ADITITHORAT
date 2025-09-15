@@ -47,7 +47,7 @@
 ---
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ADITITHORAT&show_icons=true&theme=radical&count_private=true)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ADITITHORAT&theme=radical)
 
 ---
