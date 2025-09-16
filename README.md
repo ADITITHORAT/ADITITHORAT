@@ -35,14 +35,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Status
 
-![Profile Views](https://komarev.com/ghpvc/?username=ADITITHORAT&label=Profile%20views&color=0e75b6&style=flat)
-
----
-
-### 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADITITHORAT&layout=compact&theme=radical)
 
 ---
 
